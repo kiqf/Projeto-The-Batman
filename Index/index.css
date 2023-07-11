@@ -130,7 +130,7 @@ li:hover    {
 .card-1 {
     width: 100%;
     height: 600px;
-    background-image: url(https://s2.glbimg.com/A46IOQ4bk7Z6jiObJLMGcqLZ86Y=/smart/e.glbimg.com/og/ed/f/original/2022/02/27/batman-robert-pattinson-estreia-brasil-horarios-cinema.jpg);
+    background-image: url(./batman.png);
     background-size: cover;
     background-position: 50% 50%;
     border-radius: 5px;
@@ -148,7 +148,7 @@ li:hover    {
 .card-2 {
     width: 100%;
     height: 600px;
-    background-image: url(https://static.wikia.nocookie.net/the-batman-universe/images/c/cb/Catwoman_promo.jpg/revision/latest?cb=20220223223450);
+    background-image: url(./catwoman.png);
     background-size: cover;
     background-position: 50% 50%;
     border-radius: 5px;
@@ -166,7 +166,7 @@ li:hover    {
 .card-3 {
     width: 100%;
     height: 600px;
-    background-image: url(https://br.web.img3.acsta.net/newsv7/20/03/09/18/07/1567908.jpg);
+    background-image: url(./gordon.png);
     background-size: cover;
     background-position: 50% 50%;
     border-radius: 5px;
