@@ -40,7 +40,7 @@ The page was developed with a responsive approach, using techniques like:
 
 ## How to Run the Project
 
-- [Click here to access the project! 🚀](https://kiqf-the-batman.netlify.app/)
+- [Click here! 🚀](https://kiqf-the-batman.netlify.app/)
 
 ## Contribution
 If you want to contribute to this project, feel free to open a pull request or report issues in the issues section.
